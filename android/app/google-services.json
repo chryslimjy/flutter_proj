@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "972216294481",
+    "project_id": "ezeat-project",
+    "storage_bucket": "ezeat-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972216294481:android:047ce522561a5032daec70",
+        "android_client_info": {
+          "package_name": "com.example.flutter_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972216294481-0g6aiodqhj6stelfa2q9snhqeua3thm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhTMHi823b5M5FmyxAvLG_8PMZUGQv5qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972216294481-0g6aiodqhj6stelfa2q9snhqeua3thm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
